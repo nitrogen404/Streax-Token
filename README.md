@@ -1,3 +1,8 @@
+# File Structure
+This repo contains smart contract as well as codes for the frontend. The smart contract is located at src/utils/contracts.sol
+Contract address for is 0xF83C612381B04d06B1929fdAeb00F6977c22363e
+checkout on goerli testnet explorer [https://goerli.etherscan.io/token/0xf83c612381b04d06b1929fdaeb00f6977c22363e](https://goerli.etherscan.io/token/0xf83c612381b04d06b1929fdaeb00f6977c22363e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
